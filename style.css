@@ -40,9 +40,9 @@ body {
   width: 50%;
   flex-shrink: 2;
   min-height: 100%;
-  background: url("/images/illustration-woman-online-desktop.svg") left -80px top
+  background: url("./images/illustration-woman-online-desktop.svg") left -80px top
       80px no-repeat,
-    url("/images/bg-pattern-desktop.svg") left -570px top -285px no-repeat
+    url("./images/bg-pattern-desktop.svg") left -570px top -285px no-repeat
       white;
   border-radius: 25px 0 0 25px;
 }
